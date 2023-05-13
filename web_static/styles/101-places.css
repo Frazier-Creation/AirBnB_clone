@@ -84,19 +84,19 @@
 }
 
 .icon_guest {
-    background-image: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_group.png');
+    background-image: url('../images/icon_group.png');
     width: 50px;
     height: 50px;
 }
 
 .icon_bed {
-    background-image: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bed.png');
+    background-image: url('../images/icon_bed.png');
     width: 50px;
     height: 50px;
 }
 
 .icon_bath {
-    background-image: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bath.png');
+    background-image: url('../images/icon_bath.png');
     width: 50px;
     height: 50px;
 }
@@ -153,19 +153,19 @@
 }
 
 .tv_icon {
-    background-image: url("https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_tv.png");
+    background-image: url('../images/icon_tv.png');
     width: 50px;
     height: 50px;
 }
 
 .wifi_icon {
-    background-image: url("https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_wifi.png");
+    background-image: url('../images/icon_wifi.png');
     width: 50px;
     height: 50px;
 }
 
 .pets_icon {
-    background-image: url("https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_pets.png");
+    background-image: url('../images/icon_pets.png');
     width: 50px;
     height: 50px;
 }
