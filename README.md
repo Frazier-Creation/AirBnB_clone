@@ -1,4 +1,4 @@
-# AirBnB clone V2 - The console
+# AirBnB clone - The console
 
 ## Description
 
@@ -56,4 +56,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 - **Frazier Omondi** <ochiengfrazier@gmail.com> ~ (https://github.com/Frazier-Creation) 
 
-- **Steve Kinyanjui** <skinyanjui100@gmail.com> ~ ()
+- **Isaac Githinji** <isaacgithinji4612@gmail.com> ~ (https://github.com/SilGithinji)
